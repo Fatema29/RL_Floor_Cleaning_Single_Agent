@@ -5,7 +5,7 @@ A robot is going to clean an office. However, this robot has no prior knowledge 
 ![alt text](Capture.PNG)
 
 ## Solution:
-Here, we are going to consider the office as a 2D grid array.Since this robot has no prior knowledge of the office layout as in the grid array, that means it does not know the size of the array, the starting point and the ending point.
+Here, I am going to consider the office as a 2D grid array.Since this robot has no prior knowledge of the office layout as in the grid array, that means it does not know the size of the array, the starting point and the ending point.
 
 Robot can move only 4 directions left, right, up, down.
 
